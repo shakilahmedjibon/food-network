@@ -1,5 +1,5 @@
 body{
-
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -9,6 +9,7 @@ h1{
 }
 .section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -25,4 +26,10 @@ h1{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/shapes/7.png);
+}
+#center{
+    text-align: center;
 }
