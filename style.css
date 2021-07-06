@@ -60,13 +60,15 @@ footer{
     color: white;
 }
 #extra-heding{
-    color:rgba(47, 0, 255, 0.87);
+    text-align: center;
 }
 .extra-part{
-    background-color:greenyellow;
+    background-color:rgba(128, 128, 128, 0.774);
+    height: 450px;
     margin-left: 20px;
     margin-right: 20px;
     border-radius: 10px;
     box-shadow: 10px 20px 40px grey;
     border-radius: 10px;
 }
+
